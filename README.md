@@ -4,6 +4,9 @@
 
 References:
 
+NumPy
+Python for Data Analytics 2nd Edition by Wes McKinney published by O'REILLY
+
 NumPy Simple Random data
 
 Numpy Permutations
