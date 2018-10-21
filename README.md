@@ -12,6 +12,15 @@ NumPy Simple Random data
 Numpy Permutations
 
 Random number generators
+
+Rayleigh Distribution
+http://www.brighton-webs.co.uk/distributions/rayleigh.asp
+http://en.wikipedia.org/wiki/Rayleigh_distribution
+
+Poisson Distribution
+http://mathworld.wolfram.com/PoissonDistribution.html
+http://en.wikipedia.org/wiki/Poisson_distribution
+
 https://stats.stackexchange.com/questions/354373/what-exactly-is-a-seed-in-a-random-number-generator
 https://analyticstraining.com/random-numbers-applications/
 https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
