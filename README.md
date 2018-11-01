@@ -15,20 +15,18 @@ Random number generators
 
 Binomial Distribution
 https://stattrek.com/probability-distributions/binomial.aspx
-https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables/v/binomial-distribution
-http://mathworld.wolfram.com/BinomialDistribution.html
 
-Rayleigh Distribution
-http://www.brighton-webs.co.uk/distributions/rayleigh.asp
-http://en.wikipedia.org/wiki/Rayleigh_distribution
+Chisquare distribution
+http://onlinestatbook.com/2/chi_square/distribution.html
+https://www.ling.upenn.edu/~clight/chisquared.htm
 
-Poisson Distribution
-http://mathworld.wolfram.com/PoissonDistribution.html
-http://en.wikipedia.org/wiki/Poisson_distribution
+Normal Distribution
 
-https://stats.stackexchange.com/questions/354373/what-exactly-is-a-seed-in-a-random-number-generator
-https://analyticstraining.com/random-numbers-applications/
-https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
+Pareto Distribution
+
+Uniform Distribution
+http://mathworld.wolfram.com/UniformDistribution.html
+
 
 Prime numbers and the Mersenne Twister
 https://www.ijsr.net/archive/v4i9/SUB157937.pdf
