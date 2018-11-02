@@ -19,6 +19,8 @@ https://stattrek.com/probability-distributions/binomial.aspx
 Chisquare distribution
 http://onlinestatbook.com/2/chi_square/distribution.html
 https://www.ling.upenn.edu/~clight/chisquared.htm
+https://www.youtube.com/watch?v=VskmMgXmkMQ
+
 
 Normal Distribution
 
