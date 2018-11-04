@@ -6,6 +6,9 @@ References:
 
 NumPy
 Python for Data Analytics 2nd Edition by Wes McKinney published by O'REILLY
+https://analyticstraining.com/random-numbers-applications/
+https://machinelearningmastery.com/randomness-in-machine-learning/
+
 
 NumPy Simple Random data
 
