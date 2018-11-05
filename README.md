@@ -53,13 +53,16 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 Python for Data Analytics 2nd Edition by Wes McKinney published by O'REILLY
 https://analyticstraining.com/random-numbers-applications/
 https://machinelearningmastery.com/randomness-in-machine-learning/
-
+https://www.vertex42.com/ExcelArticles/mc/MonteCarloSimulation.html
 
 ##### NumPy Simple Random data
+https://docs.scipy.org/doc/numpy/reference/routines.random.html
 
 ##### Numpy Permutations
+https://docs.scipy.org/doc/numpy/reference/routines.random.html
 
 ##### Random number generators
+https://docs.scipy.org/doc/numpy/reference/routines.random.html
 
 ##### General Statistics
 Statistics without Tears, an Introduction for Non-Mathematicians. Derek Rowntree
