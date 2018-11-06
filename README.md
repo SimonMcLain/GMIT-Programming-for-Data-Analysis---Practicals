@@ -66,6 +66,8 @@ https://docs.scipy.org/doc/numpy/reference/routines.random.html
 
 ##### General Statistics
 Statistics without Tears, an Introduction for Non-Mathematicians. Derek Rowntree
+http://www.math.wm.edu/~leemis/2008amstat.pdf
+https://www.johndcook.com/blog/distribution_chart/
 
 ##### Binomial Distribution
 https://stattrek.com/probability-distributions/binomial.aspx
